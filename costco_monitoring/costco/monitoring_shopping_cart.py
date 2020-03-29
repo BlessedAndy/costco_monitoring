@@ -6,7 +6,7 @@ Created on Mar 27, 2020
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from time import sleep
-from com.tools.notify import send_SMS_message
+from costco_monitoring.costco.notify import send_SMS_message
 
 '''
 Configuration block
